@@ -3,4 +3,8 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 nihao a zhe shi yige xin daima ceshi yuancheng k7u
 master  dev
+<<<<<<< HEAD
 11111masters
+=======
+1111dev
+>>>>>>> dev
